@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(254, 248, 218, 0.871);
+    padding: 10px;
+
+
+}
+
+header {
+    gap: 20px;
+    width: 80%;
+    height: 200px;
+   
+}
+
+img {
+    border-radius: 10cap;
+    height: 200px;
+    width: 200px;
+}
+
+main {
+    height: 30vh;
+    width: 80%;
+   column-count: 2;
+   column-gap: 20px;
+}
+
+footer {
+    width: 80%;
+    height: 20vh;
+}
+
+.dt-inline-block{
+ display: inline-block;
+ 
+}
+
+ul{
+    display: flex;
+    gap: 20px;
+ 
+}
